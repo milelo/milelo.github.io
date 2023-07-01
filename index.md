@@ -1,5 +1,5 @@
 # Mike Longworth
-twitter: [@milelo](https://twitter.com/milelo?ref_src=twsrc%5Etfw)
+twitter: [@SMBeeMaker](https://twitter.com/smbeemaker)
 
 # Open source projects
 
